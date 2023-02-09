@@ -2,7 +2,7 @@
 #include "manager.h"
 #include "player.h"
 #include "doctor.h"
-
+//1
 using namespace std;
 int total=0;
 int totald = 0;
